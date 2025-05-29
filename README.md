@@ -19,7 +19,7 @@ El proyecto incluye:
 - `index.html`: documento principal con descripción del simulador
 - `css/estilo.css`: estilos aplicados para mejorar la presentación visual
 - `js/cajero.js`: toda la lógica JavaScript del cajero
-- `Entregable1+Apellido.zip`: carpeta comprimida con todos los archivos listos para entrega
+- `Entregable1ZenonZuliani.zip`: carpeta comprimida con todos los archivos listos para entrega
 
 ---
 
